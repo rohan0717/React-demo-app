@@ -17,8 +17,8 @@ The Streaming App has been divided into components, containers and hoc :
         
 ### Containers Used ( Components with state )
     1. HomePage -- To display the Popular Tiles -> Movies and Series
-    2. MoviesPage -- Displays the Movies using the api https://raw.githubusercontent.com/StreamCo/react-coding-challenge/master   
-                    /feed/sample.json
+    2. MoviesPage -- Displays the Movies using the api 
+        https://raw.githubusercontent.com/StreamCo/react-coding-challenge/master/feed/sample.json
                   -- movies are filtered by release year >=2010 and sorted in ascending alphanumeric order
     3. SeriesPage -- Display the Series using the above mentioned api and also the same filter used for movies 
     4. Header -- It Display the Brand Text and the Log In and Start a Free Trial Button
@@ -30,8 +30,8 @@ The Streaming App has been divided into components, containers and hoc :
 
 ### Higher Order Components Used
     1. Layout -- Specifies the overall Layout that the page maintains. 
-    2. WithErrorHandler -- It catches if any error occurs during fetching data from the api and display and error message 
-                           accordingly.
+    2. WithErrorHandler -- It catches if any error occurs during fetching data from the api and
+              display and error message accordingly.
               
     
 ### Redux is used to dynamically update the Toolbar below the main Header according to Page the user is viewing.    
