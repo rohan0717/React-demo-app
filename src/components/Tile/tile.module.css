@@ -1,0 +1,15 @@
+.Tile {
+    height: 270px;
+    margin: 15px 10px;
+}
+
+.Image {
+    position: relative;
+    height: 80%;
+    width: 100%;
+}
+
+.Title {
+    text-align: center;
+    font-size: 15px;
+}

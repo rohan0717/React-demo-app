@@ -1,0 +1,18 @@
+.SeriesPage {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0px 4%;
+    box-sizing: border-box;
+}
+
+.Wrapper {
+    width: 100%;
+    height: auto;
+}
+
+.SeriesPage .Tile {
+    width: 14.2%;
+}

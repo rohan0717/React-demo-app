@@ -1,0 +1,20 @@
+.HomePage {
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0px 10%;
+    box-sizing: border-box;
+}
+
+.HomePage .Tile {
+    margin: auto auto !important;
+    width: 100%;
+}
+
+.HomePage .Link {
+    text-decoration: none;
+    width: 200px;
+    margin-right: 50px;
+}

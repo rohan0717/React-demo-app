@@ -1,0 +1,14 @@
+.PageLinks {
+    box-sizing: border-box;
+    margin-right: auto;
+}
+
+.PageLinks .Span {
+    font-size: 15px;
+}
+
+.PageLinks .Link {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}

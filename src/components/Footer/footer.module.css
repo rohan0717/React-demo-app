@@ -1,0 +1,27 @@
+.Footer {
+    display: flex;
+    flex-direction: column;
+    bottom: 0px;
+    height: auto;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 20px 10%;
+    box-sizing: border-box;
+}
+
+.Footer .CopyRight {
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: 5px;
+}
+
+.Footer .ExternalLinks {
+    width: 100%;
+    margin: 20px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

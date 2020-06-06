@@ -1,0 +1,40 @@
+.Header {
+  overflow: hidden;
+  box-sizing: border-box;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 15%;
+  background-color: royalblue;
+  box-sizing: border-box;
+}
+
+.Logo {
+  padding: 0px;
+  margin: 10px 0px;
+  color: white;
+  display: inline;
+  font-size: 25px;
+}
+
+.NavItems {
+  display: inline;
+  align-self: center;
+}
+
+.Toolbar {
+  padding: 10px 15%;
+  background-color: black;
+  color: white;
+}
+
+.Toolbar p {
+  margin: 0px;
+  font-size: 20px;
+  text-align: left;
+}

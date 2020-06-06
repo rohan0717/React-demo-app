@@ -1,0 +1,11 @@
+.SocialLinks {
+    display: inline;
+}
+
+
+.SocialLinks .Icon {
+    color: white;
+    height: 25px;
+    width: 25px;
+    padding: 5px;
+}

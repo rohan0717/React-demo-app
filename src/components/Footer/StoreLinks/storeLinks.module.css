@@ -1,0 +1,9 @@
+.StoreLinks {
+    display: inline;
+}
+
+.StoreLinks .Icon {
+    height: 40px;
+    width: 120px;
+    padding: 5px;
+}
